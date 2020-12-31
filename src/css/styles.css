@@ -1,5 +1,3 @@
-/* ./your-css-folder/styles.css */
-
 /*! modern-normalize v1.0.0 | MIT License | https://github.com/sindresorhus/modern-normalize */
 
 /*
@@ -4341,11 +4339,11 @@ video {
 }
 
 .bg-spotify-theme {
-  background-image: url('src/img/bursts.svg');
+  background-image: url('./img/bursts.svg');
 }
 
 .bg-spotify-theme-mobile {
-  background-image: url('src/img/bursts-mobile.svg');
+  background-image: url('./img/bursts-mobile.svg');
 }
 
 .from-transparent {
@@ -35767,11 +35765,11 @@ video {
   }
 
   .sm\:bg-spotify-theme {
-    background-image: url('src/img/bursts.svg');
+    background-image: url('./img/bursts.svg');
   }
 
   .sm\:bg-spotify-theme-mobile {
-    background-image: url('src/img/bursts-mobile.svg');
+    background-image: url('./img/bursts-mobile.svg');
   }
 
   .sm\:from-transparent {
@@ -67115,11 +67113,11 @@ video {
   }
 
   .md\:bg-spotify-theme {
-    background-image: url('src/img/bursts.svg');
+    background-image: url('./img/bursts.svg');
   }
 
   .md\:bg-spotify-theme-mobile {
-    background-image: url('src/img/bursts-mobile.svg');
+    background-image: url('./img/bursts-mobile.svg');
   }
 
   .md\:from-transparent {
@@ -98463,11 +98461,11 @@ video {
   }
 
   .lg\:bg-spotify-theme {
-    background-image: url('src/img/bursts.svg');
+    background-image: url('./img/bursts.svg');
   }
 
   .lg\:bg-spotify-theme-mobile {
-    background-image: url('src/img/bursts-mobile.svg');
+    background-image: url('./img/bursts-mobile.svg');
   }
 
   .lg\:from-transparent {
@@ -129811,11 +129809,11 @@ video {
   }
 
   .xl\:bg-spotify-theme {
-    background-image: url('src/img/bursts.svg');
+    background-image: url('./img/bursts.svg');
   }
 
   .xl\:bg-spotify-theme-mobile {
-    background-image: url('src/img/bursts-mobile.svg');
+    background-image: url('./img/bursts-mobile.svg');
   }
 
   .xl\:from-transparent {
@@ -161159,11 +161157,11 @@ video {
   }
 
   .\32xl\:bg-spotify-theme {
-    background-image: url('src/img/bursts.svg');
+    background-image: url('./img/bursts.svg');
   }
 
   .\32xl\:bg-spotify-theme-mobile {
-    background-image: url('src/img/bursts-mobile.svg');
+    background-image: url('./img/bursts-mobile.svg');
   }
 
   .\32xl\:from-transparent {
